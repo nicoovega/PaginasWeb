@@ -1,0 +1,41 @@
+body{
+    background-color: darkblue;
+}
+h1{
+    text-align: center;
+    background-color: cyan;
+}
+img{
+    width: 350px;
+    margin-left: 480px;
+    margin-right: 500px;
+}
+a{
+    background-color: cyan;
+    padding-left: 220px;
+    padding-right: 220px;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    display: inline;
+    font-size: 30px;
+    color: black;
+}
+.wiki_simp{
+    padding-left: 120px;
+    padding-right: 120px;
+    margin-left: 130px;
+    margin-right: 100px;
+}
+.ver_serie{
+    padding-left: 120px;
+    padding-right: 120px;
+    margin-left: 130px;
+}
+table{
+    text-align: center;
+    margin-left: 420px;
+    background-color: cyan;
+    width: 35%;
+    border-color: red;
+    border-width: 2px;
+}
